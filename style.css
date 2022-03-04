@@ -59,6 +59,15 @@ body{
    
 }
 
+.medium_name{
+    text-align: center;
+    padding-top:10px;
+}
+
+.small_name{
+    text-align: center;
+}
+
 .best_product_inner>ul{
     float: left;
     padding-top:68px;
@@ -75,7 +84,11 @@ body{
     color: white;
     padding-top:180px;
 }
-
+.bold_name{
+    text-align: center;
+    font-weight: bold;
+    padding-top: 34px;
+}
 #box{
     height: 940px;
 }
